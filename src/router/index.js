@@ -33,7 +33,7 @@ const routes = [{
 
 const router = new VueRouter({
   routes,
-  mode: 'history'
+  // mode: 'history' //这段会使githubPages请求不到
 })
 
 export default router
