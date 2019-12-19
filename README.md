@@ -1,5 +1,3 @@
-# 06tab-bar
-
 ## Project setup
 ```
 yarn install
